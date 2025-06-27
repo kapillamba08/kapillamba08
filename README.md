@@ -47,6 +47,10 @@ Let's connect and grow together! 🚀
 ![Angular.js](https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -82,7 +86,7 @@ Let's connect and grow together! 🚀
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kapillamba08/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kapillamba007/profile)
-[![Codeolio](https://img.shields.io/badge/Codeolio-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMmM1LjUyIDAgMTAgNC40OCAxMCAxMCAwIDUuNTItNC40OCAxMC0xMCAxMC01LjUyIDAtMTAtNC40OC0xMC0xMCAwLTUuNTIgNC40OC0xMCAxMC0xMHptMCAyQyA2LjQ4IDQgNCA2LjQ4IDQgMTJzMi40OCA4IDggOCA4LTIuNDggOC04LTIuNDgtOC04eiIvPjwvc3ZnPg==&logoColor=white)]([https://codeolio.io/kapillamba08](https://codolio.com/profile/kapillamba08))
+[![Codeolio](https://img.shields.io/badge/Codeolio-Profile-blue?style=for-the-badge)](https://codeolio.io/kapillamba08)
 
 ---
 
