@@ -81,8 +81,8 @@ Let's connect and grow together! 🚀
 ## 🏆 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kapillamba08/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kapillamba08/profile)
-[![Codeolio](https://img.shields.io/badge/Codeolio-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMmM1LjUyIDAgMTAgNC40OCAxMCAxMCAwIDUuNTItNC40OCAxMC0xMCAxMC01LjUyIDAtMTAtNC40OC0xMC0xMCAwLTUuNTIgNC40OC0xMCAxMC0xMHptMCAyQyA2LjQ4IDQgNCA2LjQ4IDQgMTJzMi40OCA4IDggOCA4LTIuNDggOC04LTIuNDgtOC04eiIvPjwvc3ZnPg==&logoColor=white)](https://codeolio.io/kapillamba08)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kapillamba007/profile)
+[![Codeolio](https://img.shields.io/badge/Codeolio-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMmM1LjUyIDAgMTAgNC40OCAxMCAxMCAwIDUuNTItNC40OCAxMC0xMCAxMC01LjUyIDAtMTAtNC40OC0xMC0xMCAwLTUuNTIgNC40OC0xMCAxMC0xMHptMCAyQyA2LjQ4IDQgNCA2LjQ4IDQgMTJzMi40OCA4IDggOCA4LTIuNDggOC04LTIuNDgtOC04eiIvPjwvc3ZnPg==&logoColor=white)]([https://codeolio.io/kapillamba08](https://codolio.com/profile/kapillamba08))
 
 ---
 
