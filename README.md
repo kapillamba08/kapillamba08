@@ -25,14 +25,6 @@ Let's connect and grow together! 🚀
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapillamba08/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kapillamba08)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kapillamba08)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapillamba08@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
@@ -86,15 +78,11 @@ Let's connect and grow together! 🚀
 
 ---
 
-## 🏅 Codeolio Profile
+## 🏆 Coding Profiles
 
-[![Codeolio Profile](https://codeolio.io/api/badge/kapillamba08)](https://codeolio.io/kapillamba08)
-
-**Live Coding Problems Solved:**
-![Codeolio Problems Solved](https://codeolio.io/api/problems-solved/kapillamba08)
-
-**Dashboard:**
-[![Codeolio Dashboard](https://codeolio.io/api/dashboard/kapillamba08)](https://codeolio.io/kapillamba08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kapillamba08/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kapillamba08/profile)
+[![Codeolio](https://img.shields.io/badge/Codeolio-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMmM1LjUyIDAgMTAgNC40OCAxMCAxMCAwIDUuNTItNC40OCAxMC0xMCAxMC01LjUyIDAtMTAtNC40OC0xMC0xMCAwLTUuNTIgNC40OC0xMCAxMC0xMHptMCAyQyA2LjQ4IDQgNCA2LjQ4IDQgMTJzMi40OCA4IDggOCA4LTIuNDggOC04LTIuNDgtOC04eiIvPjwvc3ZnPg==&logoColor=white)](https://codeolio.io/kapillamba08)
 
 ---
 
