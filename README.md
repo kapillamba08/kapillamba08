@@ -1,17 +1,27 @@
-Hi there! 👋 I’m Kapil Lamba, a passionate and driven B.Tech CSE student at Lovely Professional University. Here’s a little bit about me:
-🎓 Student Life:
-I’m pursuing Computer Science and Engineering, where I immerse myself in coding, problem-solving, and creative innovation. I’m currently working on exciting projects that challenge me to grow every day.
-💪 Fitness Enthusiast:
-Staying active is a big part of my life! You’ll often find me at the gym 🏋️‍♂️ or playing volleyball 🏐 to keep my mind and body energized.
-💡 Tech Explorer:
-I’m always eager to learn and experiment with new technologies 🚀. Whether it’s front-end, back-end, UI/UX, or game development, I love expanding my skill set and building awesome things! 💻✨
-🌱 Current Goals:
-Master advanced technologies like React.js, Node.js, and more 🖥️
-Build impactful projects that solve real-world problems 🌍
-Grow as a full stack developer and designer
-🌟 Fun Fact:
+# Hi there! 👋 I'm Kapil Lamba
+
+---
+
+## 💫 About Me
+
+🎓 **Student Life:**  
+I'm a passionate and driven B.Tech CSE student at Lovely Professional University, immersing myself in coding, problem-solving, and creative innovation. I'm currently working on exciting projects that challenge me to grow every day.
+
+💪 **Fitness Enthusiast:**  
+Staying active is a big part of my life! You'll often find me at the gym 🏋️‍♂️ or playing volleyball 🏐 to keep my mind and body energized.
+
+💡 **Tech Explorer:**  
+I'm always eager to learn and experiment with new technologies 🚀. Whether it's front-end, back-end, UI/UX, or game development, I love expanding my skill set and building awesome things! 💻✨
+
+🌱 **Current Goals:**
+- Master advanced technologies like React.js, Node.js, and more 🖥️
+- Build impactful projects that solve real-world problems 🌍
+- Grow as a full stack developer and designer
+
+🌟 **Fun Fact:**  
 I thrive on challenges and believe in learning by doing! 🛠️ Every project and every line of code brings me closer to becoming the best version of myself.
-Let’s connect and grow together! 🚀
+
+Let's connect and grow together! 🚀
 
 ---
 
@@ -19,6 +29,8 @@ Let’s connect and grow together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapillamba08/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kapillamba08)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kapillamba08)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapillamba08@gmail.com)
 
 ---
 
@@ -76,8 +88,13 @@ Let’s connect and grow together! 🚀
 
 ## 🏅 Codeolio Profile
 
-[![Codeolio Profile](https://codeolio.io/api/badge/kapillamba08)](https://codeolio.io/kapillamba08)  
-<!-- If Codeolio provides a profile page, link it as above. If not, use your score or a screenshot. -->
+[![Codeolio Profile](https://codeolio.io/api/badge/kapillamba08)](https://codeolio.io/kapillamba08)
+
+**Live Coding Problems Solved:**
+![Codeolio Problems Solved](https://codeolio.io/api/problems-solved/kapillamba08)
+
+**Dashboard:**
+[![Codeolio Dashboard](https://codeolio.io/api/dashboard/kapillamba08)](https://codeolio.io/kapillamba08)
 
 ---
 
@@ -97,5 +114,7 @@ Let’s connect and grow together! 🚀
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/kapillamba08/)
-- [Instagram](https://instagram.com/kapillamba08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapillamba007/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kapillamba07)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_kapillamba07)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapillamba038@gmail.com) 
