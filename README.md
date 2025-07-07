@@ -94,7 +94,6 @@ Let's connect and grow together! 🚀
 
 ![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapillamba08&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapillamba08&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kapillamba08)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
