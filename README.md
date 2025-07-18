@@ -62,28 +62,6 @@ Let's connect and grow together! 🚀
 
 ---
 
-## 🏅 Roles Unlocked
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DevCrest-Core%20Member-FF007F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JIC-Core%20Team-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lit%20Club-Executive-yellow?style=for-the-badge" />
-</p>
-
----
-
-## 🔄 Active Loops
-
-<p align="center">
- <img src="https://github.com/kapillamba08/kapillamba08/blob/main/your-image.png" width="250" style="border-radius: 20px;"/>
-</p>
-
-- 🎯 SSC CGL 2027 — Laser Locked.
-- 🧑‍💻 DevCrest — DSA Coach.
-- 🎙 Lit Club — Hosting & Content.
-- 🔬 No motivation. No emotions. Only execution.
-
----
 
 ## ✍️ Random Dev Quote
 
