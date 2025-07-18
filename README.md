@@ -1,4 +1,12 @@
-# Hi there! 👋 I'm Kapil Lamba
+<!-- 🚀 KAPIL ULTRA INSTINCT FINAL BUILD -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=700&size=22&duration=3000&pause=1000&color=21cbff&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Helloo%2C+I'm+Kapil+Lamba+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;No+backup+plan.+It+has+to+work.+%F0%9F%94%A5" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=250&section=header&text=Kapil%20Lamba&fontSize=52&fontColor=F8F8FF&animation=twinkling" />
+</p>
 
 ---
 
@@ -25,60 +33,24 @@ Let's connect and grow together! 🚀
 
 ---
 
+### ⚙️ Full Tech Arsenal
 
-## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,java,c,cpp,python,php,git,github,linux,vscode,figma,mysql,oracle,clion,pycharm,canva,linkedin,instagram,leetcode,angular,bootstrap,tailwind,laravel,wordpress,firebase,aws,netlify,vercel,jenkins,postman,adobe,unity,androidstudio,xcode,powershell,powerbi,excel,render" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next JS](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![.Net](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VN](https://img.shields.io/badge/VN-000000?style=for-the-badge)
-![Filmora](https://img.shields.io/badge/Filmora-00BDAE?style=for-the-badge)
-<!-- Add more as needed -->
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapillamba08&show_icons=true&theme=radical&title_color=FF007F&icon_color=FFD700&text_color=F8F8FF&bg_color=000000" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kapillamba08&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=FF69B4&fire=FF69B4&currStreakLabel=ffffff" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapillamba08&layout=compact&theme=radical&title_color=FF007F&text_color=F8F8FF&bg_color=000000" width="47%" />
+</p>
 
 ---
 
@@ -90,10 +62,26 @@ Let's connect and grow together! 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Roles Unlocked
 
-![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapillamba08&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapillamba08&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/DevCrest-Core%20Member-FF007F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JIC-Core%20Team-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lit%20Club-Executive-yellow?style=for-the-badge" />
+</p>
+
+---
+
+## 🔄 Active Loops
+
+<p align="center">
+ <img src="https://github.com/kapillamba08/kapillamba08/blob/main/your-image.png" width="250" style="border-radius: 20px;"/>
+</p>
+
+- 🎯 SSC CGL 2027 — Laser Locked.
+- 🧑‍💻 DevCrest — DSA Coach.
+- 🎙 Lit Club — Hosting & Content.
+- 🔬 No motivation. No emotions. Only execution.
 
 ---
 
@@ -105,7 +93,30 @@ Let's connect and grow together! 🚀
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapillamba007/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kapillamba07)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_kapillamba07)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapillamba038@gmail.com) 
+<p align="center">
+  <a href="mailto:kapillamba038@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF007F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kapillamba007/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/kapillamba07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/_kapillamba07">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 😹 Fun Factzz
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px" />
+  <br />
+  <i>"Who needs sleep when you’ve got a compiler, caffeine, and cat videos?"</i>
+</p>
+
+---
+
+> _“The best way to predict the future is to create it.”_ — Alan Kay 
